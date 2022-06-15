@@ -21,3 +21,6 @@ Two lines will not create separate paragraph
     1. Section 1
     2. Section 2
 4. Philosophers carpentry
+
+
+![University of Leeds logo](https://cdn.theuniguide.co.uk/uploads/image/file/11316/University_of_Leeds.png)
