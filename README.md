@@ -24,3 +24,7 @@ Two lines will not create separate paragraph
 
 
 ![University of Leeds logo](https://cdn.theuniguide.co.uk/uploads/image/file/11316/University_of_Leeds.png)
+
+Or add it from the local saved copy
+![University of Leeds logo](./University-of-Leeds-logo.png)  
+University of Leeds logo, Copyright University of Leeds 
